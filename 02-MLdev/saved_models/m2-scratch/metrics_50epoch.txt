@@ -1,0 +1,9 @@
+epoch:50
+RS:464
+train_ratio:0.75
+val_ratio:0.15
+learning_rate:0.01
+mae_train:0.31291502714157104
+mae_valmod:0.45790791511535645
+mae_test:0.5006963533221507
+mae_val_main:0.4921324432690939

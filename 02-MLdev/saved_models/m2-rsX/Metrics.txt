@@ -1,0 +1,5 @@
+MAE_mp = 0.87, RMSE_mp = 1.03, R2_mp= -0.17
+MAE_hse = 0.25, RMSE_hse = 0.34, R2_hse= 0.87
+MAE_gw = 0.35, RMSE_gw = 0.42, R2_gw= 0.81
+MAE_m1 = 0.88, RMSE_m1 = 1.07, R2_m1= -0.27
+MAE_m2 = 0.23, RMSE_m2 = 0.29, R2_m2= 0.9
