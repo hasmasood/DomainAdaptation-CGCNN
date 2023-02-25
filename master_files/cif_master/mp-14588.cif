@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na2PtSe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.75050200
+_cell_length_b   10.88896800
+_cell_length_c   11.45483800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2PtSe2
+_chemical_formula_sum   'Na8 Pt4 Se8'
+_cell_volume   467.80523175
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.43651700  0.13081500  1
+  Na  Na1  1  0.50000000  0.06348300  0.63081500  1
+  Na  Na2  1  0.50000000  0.32524700  0.40064300  1
+  Na  Na3  1  0.00000000  0.17475300  0.90064300  1
+  Na  Na4  1  0.50000000  0.93651700  0.13081500  1
+  Na  Na5  1  0.00000000  0.56348300  0.63081500  1
+  Na  Na6  1  0.00000000  0.82524700  0.40064300  1
+  Na  Na7  1  0.50000000  0.67475300  0.90064300  1
+  Pt  Pt8  1  0.00000000  0.13597000  0.24884300  1
+  Pt  Pt9  1  0.50000000  0.36403000  0.74884300  1
+  Pt  Pt10  1  0.50000000  0.63597000  0.24884300  1
+  Pt  Pt11  1  0.00000000  0.86403000  0.74884300  1
+  Se  Se12  1  0.50000000  0.05227500  0.36944500  1
+  Se  Se13  1  0.00000000  0.44772500  0.86944500  1
+  Se  Se14  1  0.50000000  0.21939800  0.12795500  1
+  Se  Se15  1  0.00000000  0.28060200  0.62795500  1
+  Se  Se16  1  0.00000000  0.55227500  0.36944500  1
+  Se  Se17  1  0.50000000  0.94772500  0.86944500  1
+  Se  Se18  1  0.00000000  0.71939800  0.12795500  1
+  Se  Se19  1  0.50000000  0.78060200  0.62795500  1

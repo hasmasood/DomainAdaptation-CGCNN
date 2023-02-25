@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3CoAsCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.26956386
+_cell_length_b   6.86657500
+_cell_length_c   9.15030832
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.09512165
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3CoAsCO7
+_chemical_formula_sum   'Na6 Co2 As2 C2 O14'
+_cell_volume   331.03295742
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.73783050  0.75000000  0.08068500  1
+  Na  Na1  1  0.26216950  0.25000000  0.91931500  1
+  Na  Na2  1  0.24846650  0.99543500  0.26018000  1
+  Na  Na3  1  0.24846650  0.50456500  0.26018000  1
+  Na  Na4  1  0.75153350  0.49543500  0.73982000  1
+  Na  Na5  1  0.75153350  0.00456500  0.73982000  1
+  Co  Co6  1  0.71705250  0.25000000  0.34077600  1
+  Co  Co7  1  0.28294750  0.75000000  0.65922400  1
+  As  As8  1  0.79803550  0.75000000  0.41732600  1
+  As  As9  1  0.20196450  0.25000000  0.58267400  1
+  C  C10  1  0.77293350  0.25000000  0.05856400  1
+  C  C11  1  0.22706650  0.75000000  0.94143600  1
+  O  O12  1  0.20765450  0.75000000  0.08228500  1
+  O  O13  1  0.79234550  0.25000000  0.91771500  1
+  O  O14  1  0.55068100  0.25000000  0.11919700  1
+  O  O15  1  0.44931900  0.75000000  0.88080300  1
+  O  O16  1  0.97406000  0.25000000  0.14381100  1
+  O  O17  1  0.02594000  0.75000000  0.85618900  1
+  O  O18  1  0.12368350  0.75000000  0.44736000  1
+  O  O19  1  0.87631650  0.25000000  0.55264000  1
+  O  O20  1  0.34735650  0.25000000  0.41688500  1
+  O  O21  1  0.65264350  0.75000000  0.58311500  1
+  O  O22  1  0.72200500  0.94708700  0.30677700  1
+  O  O23  1  0.72200500  0.55291300  0.30677700  1
+  O  O24  1  0.27799500  0.44708700  0.69322300  1
+  O  O25  1  0.27799500  0.05291300  0.69322300  1

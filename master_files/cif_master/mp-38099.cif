@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Rb4Cl2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.34442400
+_cell_length_b   9.34442400
+_cell_length_c   10.30572400
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb4Cl2O
+_chemical_formula_sum   'Rb16 Cl8 O4'
+_cell_volume   899.87788660
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.21740100  0.93658700  0.20052500  1
+  Rb  Rb1  1  0.43658700  0.21740100  0.95052500  1
+  Rb  Rb2  1  0.28259900  0.93658700  0.54947500  1
+  Rb  Rb3  1  0.06341300  0.28259900  0.45052500  1
+  Rb  Rb4  1  0.43658700  0.28259900  0.29947500  1
+  Rb  Rb5  1  0.78259900  0.06341300  0.20052500  1
+  Rb  Rb6  1  0.56341300  0.71740100  0.29947500  1
+  Rb  Rb7  1  0.21740100  0.56341300  0.04947500  1
+  Rb  Rb8  1  0.71740100  0.43658700  0.70052500  1
+  Rb  Rb9  1  0.93658700  0.71740100  0.45052500  1
+  Rb  Rb10  1  0.78259900  0.43658700  0.04947500  1
+  Rb  Rb11  1  0.56341300  0.78259900  0.95052500  1
+  Rb  Rb12  1  0.93658700  0.78259900  0.79947500  1
+  Rb  Rb13  1  0.28259900  0.56341300  0.70052500  1
+  Rb  Rb14  1  0.06341300  0.21740100  0.79947500  1
+  Rb  Rb15  1  0.71740100  0.06341300  0.54947500  1
+  Cl  Cl16  1  0.25000000  0.60803700  0.37500000  1
+  Cl  Cl17  1  0.89196300  0.75000000  0.12500000  1
+  Cl  Cl18  1  0.75000000  0.39196300  0.37500000  1
+  Cl  Cl19  1  0.10803700  0.25000000  0.12500000  1
+  Cl  Cl20  1  0.75000000  0.10803700  0.87500000  1
+  Cl  Cl21  1  0.39196300  0.25000000  0.62500000  1
+  Cl  Cl22  1  0.25000000  0.89196300  0.87500000  1
+  Cl  Cl23  1  0.60803700  0.75000000  0.62500000  1
+  O  O24  1  0.00000000  0.00000000  0.50000000  1
+  O  O25  1  0.50000000  0.00000000  0.25000000  1
+  O  O26  1  0.50000000  0.50000000  0.00000000  1
+  O  O27  1  0.00000000  0.50000000  0.75000000  1

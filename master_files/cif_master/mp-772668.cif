@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Li3MnSiCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06404557
+_cell_length_b   6.31696600
+_cell_length_c   8.54531610
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   93.43732064
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3MnSiCO7
+_chemical_formula_sum   'Li6 Mn2 Si2 C2 O14'
+_cell_volume   272.86778872
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.74309450  0.75000000  0.61593550  1
+  Li  Li1  1  0.25690550  0.25000000  0.38406450  1
+  Li  Li2  1  0.25688250  0.96634300  0.78292550  1
+  Li  Li3  1  0.25688250  0.53365700  0.78292550  1
+  Li  Li4  1  0.74311750  0.46634300  0.21707450  1
+  Li  Li5  1  0.74311750  0.03365700  0.21707450  1
+  Mn  Mn6  1  0.30533850  0.75000000  0.16929650  1
+  Mn  Mn7  1  0.69466150  0.25000000  0.83070350  1
+  Si  Si8  1  0.78665950  0.75000000  0.92497850  1
+  Si  Si9  1  0.21334050  0.25000000  0.07502150  1
+  C  C10  1  0.76968150  0.25000000  0.52799350  1
+  C  C11  1  0.23031850  0.75000000  0.47200650  1
+  O  O12  1  0.13884550  0.75000000  0.61065950  1
+  O  O13  1  0.86115450  0.25000000  0.38934050  1
+  O  O14  1  0.52215250  0.25000000  0.55208750  1
+  O  O15  1  0.47784750  0.75000000  0.44791250  1
+  O  O16  1  0.94034150  0.25000000  0.65105650  1
+  O  O17  1  0.05965850  0.75000000  0.34894350  1
+  O  O18  1  0.11102250  0.75000000  0.94126950  1
+  O  O19  1  0.88897750  0.25000000  0.05873050  1
+  O  O20  1  0.32462250  0.25000000  0.89906450  1
+  O  O21  1  0.67537750  0.75000000  0.10093550  1
+  O  O22  1  0.67207350  0.94669500  0.81171050  1
+  O  O23  1  0.67207350  0.55330500  0.81171050  1
+  O  O24  1  0.32792650  0.44669500  0.18828950  1
+  O  O25  1  0.32792650  0.05330500  0.18828950  1

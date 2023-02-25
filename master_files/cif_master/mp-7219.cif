@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2ZrSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.00673000
+_cell_length_b   12.15605000
+_cell_length_c   7.33795997
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.87031583
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ZrSe3
+_chemical_formula_sum   'Na8 Zr4 Se12'
+_cell_volume   591.41248813
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.00000000  0.00000000  0.00000000  1
+  Na  Na1  1  0.50000000  0.00000000  0.50000000  1
+  Na  Na2  1  0.50000000  0.65763300  0.50000000  1
+  Na  Na3  1  0.00000000  0.84236700  0.50000000  1
+  Na  Na4  1  0.50000000  0.50000000  0.00000000  1
+  Na  Na5  1  0.00000000  0.50000000  0.50000000  1
+  Na  Na6  1  0.00000000  0.15763300  0.50000000  1
+  Na  Na7  1  0.50000000  0.34236700  0.50000000  1
+  Zr  Zr8  1  0.00000000  0.66877300  0.00000000  1
+  Zr  Zr9  1  0.50000000  0.83122700  0.00000000  1
+  Zr  Zr10  1  0.50000000  0.16877300  0.00000000  1
+  Zr  Zr11  1  0.00000000  0.33122700  0.00000000  1
+  Se  Se12  1  0.24353250  0.68070150  0.77580100  1
+  Se  Se13  1  0.71404700  0.00000000  0.22279300  1
+  Se  Se14  1  0.25646750  0.81929850  0.22419900  1
+  Se  Se15  1  0.75646750  0.68070150  0.22419900  1
+  Se  Se16  1  0.74353250  0.81929850  0.77580100  1
+  Se  Se17  1  0.28595300  0.00000000  0.77720700  1
+  Se  Se18  1  0.74353250  0.18070150  0.77580100  1
+  Se  Se19  1  0.21404700  0.50000000  0.22279300  1
+  Se  Se20  1  0.75646750  0.31929850  0.22419900  1
+  Se  Se21  1  0.25646750  0.18070150  0.22419900  1
+  Se  Se22  1  0.24353250  0.31929850  0.77580100  1
+  Se  Se23  1  0.78595300  0.50000000  0.77720700  1

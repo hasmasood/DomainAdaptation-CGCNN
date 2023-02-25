@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr3CaI8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.29143800
+_cell_length_b   11.32821800
+_cell_length_c   9.77098475
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   125.06759229
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3CaI8
+_chemical_formula_sum   'Sr6 Ca2 I16'
+_cell_volume   1022.95024709
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.50192700  0.74854100  0.49803600  1
+  Sr  Sr1  1  0.50177000  0.00000000  0.00034300  1
+  Sr  Sr2  1  0.50192700  0.25145900  0.49803600  1
+  Sr  Sr3  1  0.00192700  0.24854100  0.49803600  1
+  Sr  Sr4  1  0.00177000  0.50000000  0.00034300  1
+  Sr  Sr5  1  0.00192700  0.75145900  0.49803600  1
+  Ca  Ca6  1  0.00052800  0.00000000  0.00047900  1
+  Ca  Ca7  1  0.50052800  0.50000000  0.00047900  1
+  I  I8  1  0.12372800  0.00000000  0.74981400  1
+  I  I9  1  0.38136100  0.74591300  0.75514800  1
+  I  I10  1  0.37043500  0.00000000  0.24606200  1
+  I  I11  1  0.62808500  0.74706000  0.24742600  1
+  I  I12  1  0.62937600  0.00000000  0.75060300  1
+  I  I13  1  0.38136100  0.25408700  0.75514800  1
+  I  I14  1  0.87976400  0.00000000  0.24264400  1
+  I  I15  1  0.62808500  0.25294000  0.24742600  1
+  I  I16  1  0.62372800  0.50000000  0.74981400  1
+  I  I17  1  0.88136100  0.24591300  0.75514800  1
+  I  I18  1  0.87043500  0.50000000  0.24606200  1
+  I  I19  1  0.12808500  0.24706000  0.24742600  1
+  I  I20  1  0.12937600  0.50000000  0.75060300  1
+  I  I21  1  0.88136100  0.75408700  0.75514800  1
+  I  I22  1  0.37976400  0.50000000  0.24264400  1
+  I  I23  1  0.12808500  0.75294000  0.24742600  1

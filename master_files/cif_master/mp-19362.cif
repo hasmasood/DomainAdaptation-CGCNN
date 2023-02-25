@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KFe(MoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77658878
+_cell_length_b   5.77658878
+_cell_length_c   7.37318214
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KFe(MoO4)2
+_chemical_formula_sum   'K1 Fe1 Mo2 O8'
+_cell_volume   213.07303849
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.00000000  0.00000000  1
+  Fe  Fe1  1  0.00000000  0.00000000  0.50000000  1
+  Mo  Mo2  1  0.33333333  0.66666667  0.73795750  1
+  Mo  Mo3  1  0.66666667  0.33333333  0.26204250  1
+  O  O4  1  0.33333333  0.66666667  0.97523850  1
+  O  O5  1  0.66666667  0.33333333  0.02476150  1
+  O  O6  1  0.67817900  0.83908950  0.66338150  1
+  O  O7  1  0.16091050  0.83908950  0.66338150  1
+  O  O8  1  0.83908950  0.67817900  0.33661850  1
+  O  O9  1  0.32182100  0.16091050  0.33661850  1
+  O  O10  1  0.16091050  0.32182100  0.66338150  1
+  O  O11  1  0.83908950  0.16091050  0.33661850  1

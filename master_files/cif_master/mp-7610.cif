@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2CaSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05015000
+_cell_length_b   5.05015000
+_cell_length_c   6.64400200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CaSiO4
+_chemical_formula_sum   'Li4 Ca2 Si2 O8'
+_cell_volume   169.44872682
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.50000000  0.00000000  0.25000000  1
+  Li  Li1  1  0.00000000  0.50000000  0.25000000  1
+  Li  Li2  1  0.00000000  0.50000000  0.75000000  1
+  Li  Li3  1  0.50000000  0.00000000  0.75000000  1
+  Ca  Ca4  1  0.00000000  0.00000000  0.50000000  1
+  Ca  Ca5  1  0.50000000  0.50000000  0.00000000  1
+  Si  Si6  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si7  1  0.50000000  0.50000000  0.50000000  1
+  O  O8  1  0.69183850  0.30816150  0.63976350  1
+  O  O9  1  0.30816150  0.69183850  0.63976350  1
+  O  O10  1  0.30816150  0.30816150  0.36023650  1
+  O  O11  1  0.19183850  0.19183850  0.86023650  1
+  O  O12  1  0.19183850  0.80816150  0.13976350  1
+  O  O13  1  0.80816150  0.19183850  0.13976350  1
+  O  O14  1  0.80816150  0.80816150  0.86023650  1
+  O  O15  1  0.69183850  0.69183850  0.36023650  1

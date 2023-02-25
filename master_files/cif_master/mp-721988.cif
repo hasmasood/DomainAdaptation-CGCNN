@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_NaAlSi3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.25887160
+_cell_length_b   7.53764009
+_cell_length_c   7.83415596
+_cell_angle_alpha   114.86822264
+_cell_angle_beta   107.13505457
+_cell_angle_gamma   100.51372716
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAlSi3O8
+_chemical_formula_sum   'Na2 Al2 Si6 O16'
+_cell_volume   347.66078803
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.10969380  0.97452241  0.74435946  1
+  Na  Na1  1  0.89030620  0.02547759  0.25564054  1
+  Al  Al2  1  0.97086806  0.34115589  0.81983833  1
+  Al  Al3  1  0.02913194  0.65884411  0.18016167  1
+  Si  Si4  1  0.58865919  0.64099036  0.17418894  1
+  Si  Si5  1  0.41134081  0.35900964  0.82581106  1
+  Si  Si6  1  0.48812139  0.22226711  0.19424970  1
+  Si  Si7  1  0.51187861  0.77773289  0.80575030  1
+  Si  Si8  1  0.20624822  0.76509472  0.43221711  1
+  Si  Si9  1  0.79375178  0.23490528  0.56778289  1
+  O  O10  1  0.16815319  0.26470047  0.86445977  1
+  O  O11  1  0.83184681  0.73529953  0.13554023  1
+  O  O12  1  0.31240130  0.99664506  0.40579349  1
+  O  O13  1  0.68759870  0.00335494  0.59420651  1
+  O  O14  1  0.73447506  0.22631863  0.07334422  1
+  O  O15  1  0.26552494  0.77368137  0.92665578  1
+  O  O16  1  0.41641469  0.70372660  0.32603597  1
+  O  O17  1  0.58358531  0.29627340  0.67396403  1
+  O  O18  1  0.05079069  0.60851704  0.67903104  1
+  O  O19  1  0.94920931  0.39148296  0.32096896  1
+  O  O20  1  0.48556240  0.38799636  0.27988741  1
+  O  O21  1  0.51443760  0.61200364  0.72011259  1
+  O  O22  1  0.92523306  0.21788604  0.68583184  1
+  O  O23  1  0.07476694  0.78211396  0.31416816  1
+  O  O24  1  0.61879993  0.73879912  0.94750361  1
+  O  O25  1  0.38120007  0.26120088  0.05249639  1

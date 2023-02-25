@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2CuTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46713000
+_cell_length_b   5.46713000
+_cell_length_c   8.74298800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CuTeO6
+_chemical_formula_sum   'Sr4 Cu2 Te2 O12'
+_cell_volume   261.32363108
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.50000000  0.25000000  1
+  Sr  Sr1  1  0.50000000  0.00000000  0.25000000  1
+  Sr  Sr2  1  0.50000000  0.00000000  0.75000000  1
+  Sr  Sr3  1  0.00000000  0.50000000  0.75000000  1
+  Cu  Cu4  1  0.00000000  0.00000000  0.00000000  1
+  Cu  Cu5  1  0.50000000  0.50000000  0.50000000  1
+  Te  Te6  1  0.50000000  0.50000000  0.00000000  1
+  Te  Te7  1  0.00000000  0.00000000  0.50000000  1
+  O  O8  1  0.19433300  0.30915800  0.00000000  1
+  O  O9  1  0.30915800  0.80566700  0.00000000  1
+  O  O10  1  0.69084200  0.19433300  0.00000000  1
+  O  O11  1  0.80566700  0.69084200  0.00000000  1
+  O  O12  1  0.50000000  0.50000000  0.22280900  1
+  O  O13  1  0.00000000  0.00000000  0.27719100  1
+  O  O14  1  0.69433300  0.80915800  0.50000000  1
+  O  O15  1  0.80915800  0.30566700  0.50000000  1
+  O  O16  1  0.19084200  0.69433300  0.50000000  1
+  O  O17  1  0.30566700  0.19084200  0.50000000  1
+  O  O18  1  0.00000000  0.00000000  0.72280900  1
+  O  O19  1  0.50000000  0.50000000  0.77719100  1

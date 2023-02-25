@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiCoS2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.41810211
+_cell_length_b   3.41810211
+_cell_length_c   18.62710674
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCoS2
+_chemical_formula_sum   'Li3 Co3 S6'
+_cell_volume   188.47167928
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.00000000  0.00000000  0.14496400  1
+  Li  Li1  1  0.66666667  0.33333333  0.47829733  1
+  Li  Li2  1  0.33333333  0.66666667  0.81163067  1
+  Co  Co3  1  0.00000000  0.00000000  0.00133500  1
+  Co  Co4  1  0.66666667  0.33333333  0.33466833  1
+  Co  Co5  1  0.33333333  0.66666667  0.66800167  1
+  S  S6  1  0.00000000  0.00000000  0.27444800  1
+  S  S7  1  0.66666667  0.33333333  0.06558633  1
+  S  S8  1  0.66666667  0.33333333  0.60778133  1
+  S  S9  1  0.33333333  0.66666667  0.39891967  1
+  S  S10  1  0.33333333  0.66666667  0.94111467  1
+  S  S11  1  0.00000000  0.00000000  0.73225300  1

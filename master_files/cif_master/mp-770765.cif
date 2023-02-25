@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Na3MnBAsO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28798920
+_cell_length_b   7.20384019
+_cell_length_c   8.94895427
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.07260410
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3MnBAsO7
+_chemical_formula_sum   'Na6 Mn2 B2 As2 O14'
+_cell_volume   340.67691811
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.76533225  0.75000000  0.42285600  1
+  Na  Na1  1  0.23466775  0.25000000  0.57714400  1
+  Na  Na2  1  0.25488775  0.99535550  0.24867850  1
+  Na  Na3  1  0.25488775  0.50464450  0.24867850  1
+  Na  Na4  1  0.74511225  0.49535550  0.75132150  1
+  Na  Na5  1  0.74511225  0.00464450  0.75132150  1
+  Mn  Mn6  1  0.78389225  0.25000000  0.16932450  1
+  Mn  Mn7  1  0.21610775  0.75000000  0.83067550  1
+  B  B8  1  0.72197525  0.25000000  0.43588950  1
+  B  B9  1  0.27802475  0.75000000  0.56411050  1
+  As  As10  1  0.71895925  0.75000000  0.08134850  1
+  As  As11  1  0.28104075  0.25000000  0.91865150  1
+  O  O12  1  0.31109225  0.75000000  0.41621850  1
+  O  O13  1  0.68890775  0.25000000  0.58378150  1
+  O  O14  1  0.95843825  0.25000000  0.36808050  1
+  O  O15  1  0.04156175  0.75000000  0.63191950  1
+  O  O16  1  0.52634125  0.25000000  0.32444450  1
+  O  O17  1  0.47365875  0.75000000  0.67555550  1
+  O  O18  1  0.39611525  0.75000000  0.03305300  1
+  O  O19  1  0.60388475  0.25000000  0.96694700  1
+  O  O20  1  0.12892075  0.25000000  0.08552050  1
+  O  O21  1  0.87107925  0.75000000  0.91447950  1
+  O  O22  1  0.78844975  0.93879750  0.19152250  1
+  O  O23  1  0.78844975  0.56120250  0.19152250  1
+  O  O24  1  0.21155025  0.43879750  0.80847750  1
+  O  O25  1  0.21155025  0.06120250  0.80847750  1

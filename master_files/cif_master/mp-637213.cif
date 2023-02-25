@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_La2GeI2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.49789233
+_cell_length_b   4.49789233
+_cell_length_c   32.73208671
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2GeI2
+_chemical_formula_sum   'La6 Ge3 I6'
+_cell_volume   573.48549008
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.33333333  0.66666667  0.05167467  1
+  La  La1  1  0.33333333  0.66666667  0.28165867  1
+  La  La2  1  0.00000000  0.00000000  0.38500800  1
+  La  La3  1  0.00000000  0.00000000  0.61499200  1
+  La  La4  1  0.66666667  0.33333333  0.71834133  1
+  La  La5  1  0.66666667  0.33333333  0.94832533  1
+  Ge  Ge6  1  0.00000000  0.00000000  0.00000000  1
+  Ge  Ge7  1  0.66666667  0.33333333  0.33333333  1
+  Ge  Ge8  1  0.33333333  0.66666667  0.66666667  1
+  I  I9  1  0.00000000  0.00000000  0.21855800  1
+  I  I10  1  0.66666667  0.33333333  0.11477533  1
+  I  I11  1  0.66666667  0.33333333  0.55189133  1
+  I  I12  1  0.33333333  0.66666667  0.44810867  1
+  I  I13  1  0.33333333  0.66666667  0.88522467  1
+  I  I14  1  0.00000000  0.00000000  0.78144200  1

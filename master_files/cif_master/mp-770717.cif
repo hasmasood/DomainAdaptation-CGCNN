@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2VPCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28233245
+_cell_length_b   6.55673300
+_cell_length_c   9.07103426
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.57770656
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2VPCO7
+_chemical_formula_sum   'Na4 V2 P2 C2 O14'
+_cell_volume   314.05474964
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.25970875  0.50680600  0.22813775  1
+  Na  Na1  1  0.25970875  0.99319400  0.22813775  1
+  Na  Na2  1  0.74029125  0.49319400  0.77186225  1
+  Na  Na3  1  0.74029125  0.00680600  0.77186225  1
+  V  V4  1  0.70935075  0.25000000  0.35130575  1
+  V  V5  1  0.29064925  0.75000000  0.64869425  1
+  P  P6  1  0.78460225  0.75000000  0.42432325  1
+  P  P7  1  0.21539775  0.25000000  0.57567675  1
+  C  C8  1  0.77375625  0.25000000  0.08075525  1
+  C  C9  1  0.22624375  0.75000000  0.91924475  1
+  O  O10  1  0.18672875  0.75000000  0.05490075  1
+  O  O11  1  0.81327125  0.25000000  0.94509925  1
+  O  O12  1  0.54848275  0.25000000  0.13867375  1
+  O  O13  1  0.45151725  0.75000000  0.86132625  1
+  O  O14  1  0.96072525  0.25000000  0.18308325  1
+  O  O15  1  0.03927475  0.75000000  0.81691675  1
+  O  O16  1  0.34768775  0.25000000  0.42441975  1
+  O  O17  1  0.65231225  0.75000000  0.57558025  1
+  O  O18  1  0.07780275  0.75000000  0.44845975  1
+  O  O19  1  0.92219725  0.25000000  0.55154025  1
+  O  O20  1  0.70024525  0.94131500  0.33516125  1
+  O  O21  1  0.70024525  0.55868500  0.33516125  1
+  O  O22  1  0.29975475  0.44131500  0.66483875  1
+  O  O23  1  0.29975475  0.05868500  0.66483875  1

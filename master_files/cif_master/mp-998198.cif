@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RbCaBr3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.12008200
+_cell_length_b   8.12377600
+_cell_length_c   5.74042579
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.08813317
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCaBr3
+_chemical_formula_sum   'Rb2 Ca2 Br6'
+_cell_volume   378.67091417
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.99836400  0.00000000  0.99810200  1
+  Rb  Rb1  1  0.49836400  0.50000000  0.99810200  1
+  Ca  Ca2  1  0.49514800  0.00000000  0.48301300  1
+  Ca  Ca3  1  0.99514800  0.50000000  0.48301300  1
+  Br  Br4  1  0.74703300  0.74857200  0.48581900  1
+  Br  Br5  1  0.50770100  0.00000000  0.98395700  1
+  Br  Br6  1  0.74703300  0.25142800  0.48581900  1
+  Br  Br7  1  0.24703300  0.24857200  0.48581900  1
+  Br  Br8  1  0.00770100  0.50000000  0.98395700  1
+  Br  Br9  1  0.24703300  0.75142800  0.48581900  1

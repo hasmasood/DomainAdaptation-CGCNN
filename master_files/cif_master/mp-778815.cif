@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li2CoP2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.02570419
+_cell_length_b   8.38552279
+_cell_length_c   7.16662468
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.53643950
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2CoP2O7
+_chemical_formula_sum   'Li4 Co2 P4 O14'
+_cell_volume   284.63635559
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.32268250  0.85276900  0.35248550  1
+  Li  Li1  1  0.67731750  0.35276900  0.64751450  1
+  Li  Li2  1  0.84993350  0.67933650  0.08682600  1
+  Li  Li3  1  0.15006650  0.17933650  0.91317400  1
+  Co  Co4  1  0.30102450  0.49509100  0.27844250  1
+  Co  Co5  1  0.69897550  0.99509100  0.72155750  1
+  P  P6  1  0.11192650  0.18573500  0.48169350  1
+  P  P7  1  0.88807350  0.68573500  0.51830650  1
+  P  P8  1  0.28126250  0.79220300  0.91438650  1
+  P  P9  1  0.71873750  0.29220300  0.08561350  1
+  O  O10  1  0.42618100  0.31647050  0.10688000  1
+  O  O11  1  0.57381900  0.81647050  0.89312000  1
+  O  O12  1  0.30160850  0.70524250  0.10797600  1
+  O  O13  1  0.69839150  0.20524250  0.89202400  1
+  O  O14  1  0.29998750  0.03764350  0.51318300  1
+  O  O15  1  0.70001250  0.53764350  0.48681700  1
+  O  O16  1  0.27838200  0.34009100  0.49436850  1
+  O  O17  1  0.72161800  0.84009100  0.50563150  1
+  O  O18  1  0.06306300  0.69001000  0.38109150  1
+  O  O19  1  0.93693700  0.19001000  0.61890850  1
+  O  O20  1  0.88348250  0.44801250  0.10235200  1
+  O  O21  1  0.11651750  0.94801250  0.89764800  1
+  O  O22  1  0.89625450  0.16863000  0.25609150  1
+  O  O23  1  0.10374550  0.66863000  0.74390850  1

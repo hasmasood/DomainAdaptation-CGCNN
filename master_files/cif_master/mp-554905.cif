@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_CaZnSi3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.30417000
+_cell_length_b   7.36416458
+_cell_length_c   8.07487819
+_cell_angle_alpha   115.78510219
+_cell_angle_beta   106.45178330
+_cell_angle_gamma   100.52781966
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaZnSi3O8
+_chemical_formula_sum   'Ca2 Zn2 Si6 O16'
+_cell_volume   350.76003691
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.14623750  0.04552900  0.73118500  1
+  Ca  Ca1  1  0.85376250  0.95447100  0.26881500  1
+  Zn  Zn2  1  0.20655800  0.63492400  0.68917950  1
+  Zn  Zn3  1  0.79344200  0.36507600  0.31082050  1
+  Si  Si4  1  0.36989100  0.21809200  0.05803950  1
+  Si  Si5  1  0.69128850  0.22521700  0.69457200  1
+  Si  Si6  1  0.30871150  0.77478300  0.30542800  1
+  Si  Si7  1  0.24999600  0.33885200  0.32802250  1
+  Si  Si8  1  0.75000400  0.66114800  0.67197750  1
+  Si  Si9  1  0.63010900  0.78190800  0.94196050  1
+  O  O10  1  0.17292350  0.79929900  0.40394450  1
+  O  O11  1  0.71705450  0.01974300  0.90988650  1
+  O  O12  1  0.23493250  0.58784000  0.23904450  1
+  O  O13  1  0.55414550  0.75083500  0.45152250  1
+  O  O14  1  0.44585450  0.24916500  0.54847750  1
+  O  O15  1  0.05138050  0.22728900  0.37115650  1
+  O  O16  1  0.73341650  0.65648900  0.18626450  1
+  O  O17  1  0.26658350  0.34351100  0.81373550  1
+  O  O18  1  0.94861950  0.77271100  0.62884350  1
+  O  O19  1  0.72561400  0.70589200  0.83658150  1
+  O  O20  1  0.27438600  0.29410800  0.16341850  1
+  O  O21  1  0.38373300  0.79503700  0.83575350  1
+  O  O22  1  0.76506750  0.41216000  0.76095550  1
+  O  O23  1  0.28294550  0.98025700  0.09011350  1
+  O  O24  1  0.82707650  0.20070100  0.59605550  1
+  O  O25  1  0.61626700  0.20496300  0.16424650  1

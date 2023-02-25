@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_K2PdO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.18572800
+_cell_length_b   6.14370800
+_cell_length_c   8.69683800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2PdO2
+_chemical_formula_sum   'K4 Pd2 O4'
+_cell_volume   170.21610137
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.00000000  0.50000000  0.82460600  1
+  K  K1  1  0.00000000  0.50000000  0.17539400  1
+  K  K2  1  0.50000000  0.00000000  0.32460600  1
+  K  K3  1  0.50000000  0.00000000  0.67539400  1
+  Pd  Pd4  1  0.00000000  0.00000000  0.00000000  1
+  Pd  Pd5  1  0.50000000  0.50000000  0.50000000  1
+  O  O6  1  0.50000000  0.21962700  0.00000000  1
+  O  O7  1  0.50000000  0.78037300  0.00000000  1
+  O  O8  1  0.00000000  0.71962700  0.50000000  1
+  O  O9  1  0.00000000  0.28037300  0.50000000  1

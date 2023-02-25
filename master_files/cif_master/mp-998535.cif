@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_InPbCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.22592400
+_cell_length_b   8.06384800
+_cell_length_c   5.75700159
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.23297555
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InPbCl3
+_chemical_formula_sum   'In2 Pb2 Cl6'
+_cell_volume   381.87373148
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.10426400  0.00000000  0.91918200  1
+  In  In1  1  0.60426400  0.50000000  0.91918200  1
+  Pb  Pb2  1  0.50111900  0.00000000  0.50028500  1
+  Pb  Pb3  1  0.00111900  0.50000000  0.50028500  1
+  Cl  Cl4  1  0.46046900  0.00000000  0.99832100  1
+  Cl  Cl5  1  0.72197400  0.72313300  0.54496400  1
+  Cl  Cl6  1  0.72197400  0.27686700  0.54496400  1
+  Cl  Cl7  1  0.96046900  0.50000000  0.99832100  1
+  Cl  Cl8  1  0.22197400  0.22313300  0.54496400  1
+  Cl  Cl9  1  0.22197400  0.77686700  0.54496400  1

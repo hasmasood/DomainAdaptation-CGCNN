@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ba2CuBrO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34457443
+_cell_length_b   4.34457443
+_cell_length_c   29.60166279
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CuBrO2
+_chemical_formula_sum   'Ba6 Cu3 Br3 O6'
+_cell_volume   483.88395562
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.00000000  0.00000000  0.25154800  1
+  Ba  Ba1  1  0.66666667  0.33333333  0.08178533  1
+  Ba  Ba2  1  0.66666667  0.33333333  0.58488133  1
+  Ba  Ba3  1  0.33333333  0.66666667  0.41511867  1
+  Ba  Ba4  1  0.33333333  0.66666667  0.91821467  1
+  Ba  Ba5  1  0.00000000  0.00000000  0.74845200  1
+  Cu  Cu6  1  0.33333333  0.66666667  0.16666667  1
+  Cu  Cu7  1  1.00000000  1.00000000  0.50000000  1
+  Cu  Cu8  1  0.66666667  0.33333333  0.83333333  1
+  Br  Br9  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br10  1  0.66666667  0.33333333  0.33333333  1
+  Br  Br11  1  0.33333333  0.66666667  0.66666667  1
+  O  O12  1  0.33333333  0.66666667  0.22784567  1
+  O  O13  1  0.33333333  0.66666667  0.10548767  1
+  O  O14  1  0.00000000  0.00000000  0.56117900  1
+  O  O15  1  0.00000000  0.00000000  0.43882100  1
+  O  O16  1  0.66666667  0.33333333  0.89451233  1
+  O  O17  1  0.66666667  0.33333333  0.77215433  1

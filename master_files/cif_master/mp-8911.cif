@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CuAgS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.96689000
+_cell_length_b   6.80460400
+_cell_length_c   8.45477100
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuAgS
+_chemical_formula_sum   'Cu4 Ag4 S4'
+_cell_volume   228.22061065
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.50000000  0.02229600  0.25000000  1
+  Cu  Cu1  1  0.50000000  0.97770400  0.75000000  1
+  Cu  Cu2  1  0.00000000  0.52229600  0.25000000  1
+  Cu  Cu3  1  0.00000000  0.47770400  0.75000000  1
+  Ag  Ag4  1  0.00000000  0.00000000  0.50000000  1
+  Ag  Ag5  1  0.00000000  0.00000000  0.00000000  1
+  Ag  Ag6  1  0.50000000  0.50000000  0.50000000  1
+  Ag  Ag7  1  0.50000000  0.50000000  0.00000000  1
+  S  S8  1  0.50000000  0.31638500  0.75000000  1
+  S  S9  1  0.50000000  0.68361500  0.25000000  1
+  S  S10  1  0.00000000  0.81638500  0.75000000  1
+  S  S11  1  0.00000000  0.18361500  0.25000000  1

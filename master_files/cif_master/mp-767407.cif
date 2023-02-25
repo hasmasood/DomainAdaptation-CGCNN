@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Li5SbS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25573900
+_cell_length_b   8.72463700
+_cell_length_c   9.07324842
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.46762606
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li5SbS
+_chemical_formula_sum   'Li20 Sb4 S4'
+_cell_volume   495.04684661
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.93546700  0.25237800  0.51118400  1
+  Li  Li1  1  0.22796400  0.47829000  0.00437700  1
+  Li  Li2  1  0.19606100  0.70415900  0.78030000  1
+  Li  Li3  1  0.28362300  0.47151500  0.52639200  1
+  Li  Li4  1  0.29285700  0.74436100  0.25719200  1
+  Li  Li5  1  0.27665800  0.01194200  0.49443500  1
+  Li  Li6  1  0.18848600  0.24940500  0.78837000  1
+  Li  Li7  1  0.27910000  0.21894400  0.26411300  1
+  Li  Li8  1  0.44992100  0.97269300  0.79001700  1
+  Li  Li9  1  0.22951400  0.97670500  0.03889500  1
+  Li  Li10  1  0.77048600  0.47670500  0.96110500  1
+  Li  Li11  1  0.55007900  0.47269300  0.20998300  1
+  Li  Li12  1  0.72090000  0.71894400  0.73588700  1
+  Li  Li13  1  0.81151400  0.74940500  0.21163000  1
+  Li  Li14  1  0.72334200  0.51194200  0.50556500  1
+  Li  Li15  1  0.70714300  0.24436100  0.74280800  1
+  Li  Li16  1  0.71637700  0.97151500  0.47360800  1
+  Li  Li17  1  0.80393900  0.20415900  0.21970000  1
+  Li  Li18  1  0.77203600  0.97829000  0.99562300  1
+  Li  Li19  1  0.06453300  0.75237800  0.48881600  1
+  Sb  Sb20  1  0.01225000  0.48134100  0.27613200  1
+  Sb  Sb21  1  0.50267000  0.72641100  0.99825300  1
+  Sb  Sb22  1  0.49733000  0.22641100  0.00174700  1
+  Sb  Sb23  1  0.98775000  0.98134100  0.72386800  1
+  S  S24  1  0.02339100  0.97519000  0.27459400  1
+  S  S25  1  0.47204600  0.73816400  0.51079100  1
+  S  S26  1  0.52795400  0.23816400  0.48920900  1
+  S  S27  1  0.97660900  0.47519000  0.72540600  1

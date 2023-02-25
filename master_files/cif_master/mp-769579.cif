@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_KFePCO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.44588592
+_cell_length_b   6.43915600
+_cell_length_c   10.03121972
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.26149431
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KFePCO7
+_chemical_formula_sum   'K2 Fe2 P2 C2 O14'
+_cell_volume   351.67861246
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.75292100  0.57960400  0.24152900  1
+  K  K1  1  0.24707900  0.07960400  0.75847100  1
+  Fe  Fe2  1  0.21970800  0.22677000  0.36243100  1
+  Fe  Fe3  1  0.78029200  0.72677000  0.63756900  1
+  P  P4  1  0.27301600  0.73342100  0.43976000  1
+  P  P5  1  0.72698400  0.23342100  0.56024000  1
+  C  C6  1  0.27961900  0.25610900  0.11011000  1
+  C  C7  1  0.72038100  0.75610900  0.88989000  1
+  O  O8  1  0.68409700  0.78079100  0.01213700  1
+  O  O9  1  0.06293400  0.24794600  0.16050600  1
+  O  O10  1  0.45861300  0.23961900  0.19737800  1
+  O  O11  1  0.22188800  0.92346300  0.34932400  1
+  O  O12  1  0.22507700  0.54092300  0.35059000  1
+  O  O13  1  0.89300400  0.23897700  0.43708500  1
+  O  O14  1  0.54714900  0.73452600  0.48734700  1
+  O  O15  1  0.45285100  0.23452600  0.51265300  1
+  O  O16  1  0.10699600  0.73897700  0.56291500  1
+  O  O17  1  0.77492300  0.04092300  0.64941000  1
+  O  O18  1  0.77811200  0.42346300  0.65067600  1
+  O  O19  1  0.54138700  0.73961900  0.80262200  1
+  O  O20  1  0.93706600  0.74794600  0.83949400  1
+  O  O21  1  0.31590300  0.28079100  0.98786300  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_K2AgAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97298600
+_cell_length_b   10.13024200
+_cell_length_c   6.13366800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2AgAs
+_chemical_formula_sum   'K8 Ag4 As4'
+_cell_volume   495.40579999
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.35677150  0.67267250  0.25000000  1
+  K  K1  1  0.64322850  0.32732750  0.75000000  1
+  K  K2  1  0.35677150  0.32732750  0.25000000  1
+  K  K3  1  0.64322850  0.67267250  0.75000000  1
+  K  K4  1  0.85677150  0.17267250  0.25000000  1
+  K  K5  1  0.14322850  0.82732750  0.75000000  1
+  K  K6  1  0.85677150  0.82732750  0.25000000  1
+  K  K7  1  0.14322850  0.17267250  0.75000000  1
+  Ag  Ag8  1  0.50000000  0.00000000  0.50000000  1
+  Ag  Ag9  1  0.50000000  0.00000000  0.00000000  1
+  Ag  Ag10  1  0.00000000  0.50000000  0.50000000  1
+  Ag  Ag11  1  0.00000000  0.50000000  0.00000000  1
+  As  As12  1  0.75907300  0.00000000  0.75000000  1
+  As  As13  1  0.24092700  0.00000000  0.25000000  1
+  As  As14  1  0.25907300  0.50000000  0.75000000  1
+  As  As15  1  0.74092700  0.50000000  0.25000000  1

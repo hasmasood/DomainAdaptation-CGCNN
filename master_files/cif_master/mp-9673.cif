@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_K2NiAs2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64363600
+_cell_length_b   14.06918000
+_cell_length_c   5.79565200
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2NiAs2
+_chemical_formula_sum   'K8 Ni4 As8'
+_cell_volume   541.72255250
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.50000000  0.29224000  0.25000000  1
+  K  K1  1  0.00000000  0.20776000  0.75000000  1
+  K  K2  1  0.00000000  0.41087200  0.25000000  1
+  K  K3  1  0.50000000  0.08912800  0.75000000  1
+  K  K4  1  0.00000000  0.79224000  0.25000000  1
+  K  K5  1  0.50000000  0.70776000  0.75000000  1
+  K  K6  1  0.50000000  0.91087200  0.25000000  1
+  K  K7  1  0.00000000  0.58912800  0.75000000  1
+  Ni  Ni8  1  0.00000000  0.00000000  0.50000000  1
+  Ni  Ni9  1  0.00000000  0.00000000  0.00000000  1
+  Ni  Ni10  1  0.50000000  0.50000000  0.50000000  1
+  Ni  Ni11  1  0.50000000  0.50000000  0.00000000  1
+  As  As12  1  0.81539500  0.10093100  0.25000000  1
+  As  As13  1  0.68460500  0.39906900  0.75000000  1
+  As  As14  1  0.31539500  0.39906900  0.75000000  1
+  As  As15  1  0.18460500  0.10093100  0.25000000  1
+  As  As16  1  0.31539500  0.60093100  0.25000000  1
+  As  As17  1  0.18460500  0.89906900  0.75000000  1
+  As  As18  1  0.81539500  0.89906900  0.75000000  1
+  As  As19  1  0.68460500  0.60093100  0.25000000  1

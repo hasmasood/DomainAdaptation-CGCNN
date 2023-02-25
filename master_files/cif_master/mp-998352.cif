@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_BaHfS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08675190
+_cell_length_b   7.08675190
+_cell_length_c   8.68244420
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaHfS3
+_chemical_formula_sum   'Ba3 Hf3 S9'
+_cell_volume   377.63052342
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.66666667  0.33333333  0.34196133  1
+  Ba  Ba1  1  0.33333333  0.66666667  0.67529467  1
+  Ba  Ba2  1  0.00000000  0.00000000  0.00862800  1
+  Hf  Hf3  1  0.33333333  0.66666667  0.17714233  1
+  Hf  Hf4  1  0.00000000  0.00000000  0.51047567  1
+  Hf  Hf5  1  0.66666667  0.33333333  0.84380900  1
+  S  S6  1  0.50057550  0.49942450  0.01256800  1
+  S  S7  1  0.50057550  0.00115100  0.01256800  1
+  S  S8  1  0.66551567  0.83275783  0.34590133  1
+  S  S9  1  0.16724217  0.83275783  0.34590133  1
+  S  S10  1  0.16724217  0.33448433  0.34590133  1
+  S  S11  1  0.33218233  0.16609117  0.67923467  1
+  S  S12  1  0.83390883  0.16609117  0.67923467  1
+  S  S13  1  0.83390883  0.66781767  0.67923467  1
+  S  S14  1  0.99884900  0.49942450  0.01256800  1

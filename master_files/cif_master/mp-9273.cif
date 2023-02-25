@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_K3Sb2Au3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.36346431
+_cell_length_b   6.36346431
+_cell_length_c   21.80965137
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3Sb2Au3
+_chemical_formula_sum   'K9 Sb6 Au9'
+_cell_volume   764.83293486
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.33333333  0.66666667  0.16666667  1
+  K  K1  1  0.00000000  0.00000000  0.08091100  1
+  K  K2  1  0.66666667  0.33333333  0.25242233  1
+  K  K3  1  1.00000000  1.00000000  0.50000000  1
+  K  K4  1  0.66666667  0.33333333  0.41424433  1
+  K  K5  1  0.33333333  0.66666667  0.58575567  1
+  K  K6  1  0.66666667  0.33333333  0.83333333  1
+  K  K7  1  0.33333333  0.66666667  0.74757767  1
+  K  K8  1  0.00000000  0.00000000  0.91908900  1
+  Sb  Sb9  1  0.66666667  0.33333333  0.09108533  1
+  Sb  Sb10  1  0.00000000  0.00000000  0.24224800  1
+  Sb  Sb11  1  0.33333333  0.66666667  0.42441867  1
+  Sb  Sb12  1  0.66666667  0.33333333  0.57558133  1
+  Sb  Sb13  1  0.00000000  0.00000000  0.75775200  1
+  Sb  Sb14  1  0.33333333  0.66666667  0.90891467  1
+  Au  Au15  1  0.50000000  0.50000000  0.00000000  1
+  Au  Au16  1  0.00000000  0.50000000  0.00000000  1
+  Au  Au17  1  0.50000000  0.00000000  0.00000000  1
+  Au  Au18  1  0.16666667  0.83333333  0.33333333  1
+  Au  Au19  1  0.66666667  0.83333333  0.33333333  1
+  Au  Au20  1  0.16666667  0.33333333  0.33333333  1
+  Au  Au21  1  0.83333333  0.16666667  0.66666667  1
+  Au  Au22  1  0.33333333  0.16666667  0.66666667  1
+  Au  Au23  1  0.83333333  0.66666667  0.66666667  1

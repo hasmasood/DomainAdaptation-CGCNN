@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Sr2CuBrO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.07508164
+_cell_length_b   4.07508164
+_cell_length_c   28.64806728
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CuBrO2
+_chemical_formula_sum   'Sr6 Cu3 Br3 O6'
+_cell_volume   412.00130059
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.00000000  0.00000000  0.25299900  1
+  Sr  Sr1  1  0.66666667  0.33333333  0.08033433  1
+  Sr  Sr2  1  0.66666667  0.33333333  0.58633233  1
+  Sr  Sr3  1  0.33333333  0.66666667  0.41366767  1
+  Sr  Sr4  1  0.33333333  0.66666667  0.91966567  1
+  Sr  Sr5  1  0.00000000  0.00000000  0.74700100  1
+  Cu  Cu6  1  0.33333333  0.66666667  0.16666667  1
+  Cu  Cu7  1  1.00000000  1.00000000  0.50000000  1
+  Cu  Cu8  1  0.66666667  0.33333333  0.83333333  1
+  Br  Br9  1  0.00000000  0.00000000  0.00000000  1
+  Br  Br10  1  0.66666667  0.33333333  0.33333333  1
+  Br  Br11  1  0.33333333  0.66666667  0.66666667  1
+  O  O12  1  0.33333333  0.66666667  0.10305467  1
+  O  O13  1  0.33333333  0.66666667  0.23027867  1
+  O  O14  1  0.00000000  0.00000000  0.43638800  1
+  O  O15  1  0.00000000  0.00000000  0.56361200  1
+  O  O16  1  0.66666667  0.33333333  0.76972133  1
+  O  O17  1  0.66666667  0.33333333  0.89694533  1

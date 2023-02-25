@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Na2CN2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05534000
+_cell_length_b   5.01129400
+_cell_length_c   5.58420079
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.04843075
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CN2
+_chemical_formula_sum   'Na4 C2 N4'
+_cell_volume   132.89642720
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.17459300  0.50000000  0.30942700  1
+  Na  Na1  1  0.82540700  0.50000000  0.69057300  1
+  Na  Na2  1  0.67459300  0.00000000  0.30942700  1
+  Na  Na3  1  0.32540700  0.00000000  0.69057300  1
+  C  C4  1  0.00000000  0.00000000  0.00000000  1
+  C  C5  1  0.50000000  0.50000000  0.00000000  1
+  N  N6  1  0.34467700  0.50000000  0.77257000  1
+  N  N7  1  0.65532300  0.50000000  0.22743000  1
+  N  N8  1  0.84467700  0.00000000  0.77257000  1
+  N  N9  1  0.15532300  0.00000000  0.22743000  1

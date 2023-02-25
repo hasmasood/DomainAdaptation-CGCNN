@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2CrCSO7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21142021
+_cell_length_b   7.23747406
+_cell_length_c   8.94088612
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   92.21702797
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CrCSO7
+_chemical_formula_sum   'Na4 Cr2 C2 S2 O14'
+_cell_volume   336.97561125
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.76729750  0.00106700  0.21116700  1
+  Na  Na1  1  0.76729750  0.49893300  0.21116700  1
+  Na  Na2  1  0.23270250  0.50106700  0.78883300  1
+  Na  Na3  1  0.23270250  0.99893300  0.78883300  1
+  Cr  Cr4  1  0.77518450  0.75000000  0.63911100  1
+  Cr  Cr5  1  0.22481550  0.25000000  0.36088900  1
+  C  C6  1  0.27831450  0.25000000  0.08409800  1
+  C  C7  1  0.72168550  0.75000000  0.91590200  1
+  S  S8  1  0.26912450  0.75000000  0.40994200  1
+  S  S9  1  0.73087550  0.25000000  0.59005800  1
+  O  O10  1  0.69672950  0.75000000  0.05550000  1
+  O  O11  1  0.30327050  0.25000000  0.94450000  1
+  O  O12  1  0.05332950  0.25000000  0.14705300  1
+  O  O13  1  0.94667050  0.75000000  0.85294700  1
+  O  O14  1  0.47563850  0.25000000  0.18216300  1
+  O  O15  1  0.52436150  0.75000000  0.81783700  1
+  O  O16  1  0.84374050  0.25000000  0.43712500  1
+  O  O17  1  0.15625950  0.75000000  0.56287500  1
+  O  O18  1  0.55895550  0.75000000  0.43324200  1
+  O  O19  1  0.44104450  0.25000000  0.56675800  1
+  O  O20  1  0.18823750  0.91799600  0.32700200  1
+  O  O21  1  0.18823750  0.58200400  0.32700200  1
+  O  O22  1  0.81176250  0.41799600  0.67299800  1
+  O  O23  1  0.81176250  0.08200400  0.67299800  1

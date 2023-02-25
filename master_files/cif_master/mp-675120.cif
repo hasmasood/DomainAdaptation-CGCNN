@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Cu2SiTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.29605600
+_cell_length_b   12.67217800
+_cell_length_c   7.30720859
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.16260677
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2SiTe3
+_chemical_formula_sum   'Cu8 Si4 Te12'
+_cell_volume   638.16743525
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.42123950  0.41258150  0.00389700  1
+  Cu  Cu1  1  0.90963100  0.24735500  0.00093900  1
+  Cu  Cu2  1  0.92123950  0.08741850  0.50389700  1
+  Cu  Cu3  1  0.40963100  0.25264500  0.50093900  1
+  Cu  Cu4  1  0.92123950  0.91258150  0.00389700  1
+  Cu  Cu5  1  0.40963100  0.74735500  0.00093900  1
+  Cu  Cu6  1  0.42123950  0.58741850  0.50389700  1
+  Cu  Cu7  1  0.90963100  0.75264500  0.50093900  1
+  Si  Si8  1  0.40221700  0.08297800  0.98740000  1
+  Si  Si9  1  0.90221700  0.41702200  0.48740000  1
+  Si  Si10  1  0.90221700  0.58297800  0.98740000  1
+  Si  Si11  1  0.40221700  0.91702200  0.48740000  1
+  Te  Te12  1  0.04296450  0.41292250  0.87442900  1
+  Te  Te13  1  0.03320900  0.08148000  0.87709600  1
+  Te  Te14  1  0.53320900  0.41852000  0.37709600  1
+  Te  Te15  1  0.53771050  0.24558750  0.87267500  1
+  Te  Te16  1  0.54296450  0.08707750  0.37442900  1
+  Te  Te17  1  0.03771050  0.25441250  0.37267500  1
+  Te  Te18  1  0.54296450  0.91292250  0.87442900  1
+  Te  Te19  1  0.53320900  0.58148000  0.87709600  1
+  Te  Te20  1  0.03320900  0.91852000  0.37709600  1
+  Te  Te21  1  0.03771050  0.74558750  0.87267500  1
+  Te  Te22  1  0.04296450  0.58707750  0.37442900  1
+  Te  Te23  1  0.53771050  0.75441250  0.37267500  1

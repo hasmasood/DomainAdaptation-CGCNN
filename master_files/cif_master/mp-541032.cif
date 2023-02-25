@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Te7As5I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.91481600
+_cell_length_b   4.03226800
+_cell_length_c   14.57231689
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.98066238
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Te7As5I
+_chemical_formula_sum   'Te14 As10 I2'
+_cell_volume   823.63545599
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.11416100  0.50000000  0.67792500  1
+  Te  Te1  1  0.92467600  0.00000000  0.44698800  1
+  Te  Te2  1  0.73128900  0.50000000  0.21132200  1
+  Te  Te3  1  0.95964800  0.00000000  0.17271700  1
+  Te  Te4  1  0.14585000  0.50000000  0.40504000  1
+  Te  Te5  1  0.83492800  0.50000000  0.62650300  1
+  Te  Te6  1  0.03519900  0.00000000  0.89209100  1
+  Te  Te7  1  0.61416100  0.00000000  0.67792500  1
+  Te  Te8  1  0.42467600  0.50000000  0.44698800  1
+  Te  Te9  1  0.23128900  0.00000000  0.21132200  1
+  Te  Te10  1  0.45964800  0.50000000  0.17271700  1
+  Te  Te11  1  0.64585000  0.00000000  0.40504000  1
+  Te  Te12  1  0.33492800  0.00000000  0.62650300  1
+  Te  Te13  1  0.53519900  0.50000000  0.89209100  1
+  As  As14  1  0.49692100  0.00000000  0.99916700  1
+  As  As15  1  0.30610400  0.50000000  0.74030400  1
+  As  As16  1  0.12260500  0.00000000  0.53633800  1
+  As  As17  1  0.95109800  0.50000000  0.32186200  1
+  As  As18  1  0.76904000  0.00000000  0.10342800  1
+  As  As19  1  0.99692100  0.50000000  0.99916700  1
+  As  As20  1  0.80610400  0.00000000  0.74030400  1
+  As  As21  1  0.62260500  0.50000000  0.53633800  1
+  As  As22  1  0.45109800  0.00000000  0.32186200  1
+  As  As23  1  0.26904000  0.50000000  0.10342800  1
+  I  I24  1  0.30308200  0.00000000  0.92401400  1
+  I  I25  1  0.80308200  0.50000000  0.92401400  1

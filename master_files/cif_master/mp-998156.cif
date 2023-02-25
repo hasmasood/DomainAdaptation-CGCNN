@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_RbSnCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.91513400
+_cell_length_b   7.92049600
+_cell_length_c   5.61290575
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.84177076
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbSnCl3
+_chemical_formula_sum   'Rb2 Sn2 Cl6'
+_cell_volume   351.84511723
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.00966700  0.00000000  0.98193800  1
+  Rb  Rb1  1  0.50966700  0.50000000  0.98193800  1
+  Sn  Sn2  1  0.49121300  0.00000000  0.52061000  1
+  Sn  Sn3  1  0.99121300  0.50000000  0.52061000  1
+  Cl  Cl4  1  0.49532300  0.00000000  0.00753100  1
+  Cl  Cl5  1  0.73819400  0.74723600  0.52477300  1
+  Cl  Cl6  1  0.73819400  0.25276400  0.52477300  1
+  Cl  Cl7  1  0.99532300  0.50000000  0.00753100  1
+  Cl  Cl8  1  0.23819400  0.24723600  0.52477300  1
+  Cl  Cl9  1  0.23819400  0.75276400  0.52477300  1

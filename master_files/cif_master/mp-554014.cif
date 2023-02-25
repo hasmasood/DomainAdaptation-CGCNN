@@ -1,0 +1,51 @@
+# generated using pymatgen
+data_Li2Cu5(Si2O7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54051869
+_cell_length_b   7.54979509
+_cell_length_c   7.87552556
+_cell_angle_alpha   115.11470762
+_cell_angle_beta   89.86214204
+_cell_angle_gamma   106.75080990
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Cu5(Si2O7)2
+_chemical_formula_sum   'Li2 Cu5 Si4 O14'
+_cell_volume   282.88472906
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.76241500  0.88763400  0.55127500  1
+  Li  Li1  1  0.23758500  0.11236600  0.44872500  1
+  Cu  Cu2  1  0.07939700  0.38800700  0.81460900  1
+  Cu  Cu3  1  0.92060300  0.61199300  0.18539100  1
+  Cu  Cu4  1  0.32943000  0.42821300  0.28556900  1
+  Cu  Cu5  1  0.67057000  0.57178700  0.71443100  1
+  Cu  Cu6  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si7  1  0.80196500  0.21405700  0.40332300  1
+  Si  Si8  1  0.49479400  0.22839000  0.86024100  1
+  Si  Si9  1  0.50520600  0.77161000  0.13975900  1
+  Si  Si10  1  0.19803500  0.78594300  0.59667700  1
+  O  O11  1  0.10121000  0.82514700  0.42297500  1
+  O  O12  1  0.69648500  0.77396600  0.98003400  1
+  O  O13  1  0.40943900  0.33743500  0.73522200  1
+  O  O14  1  0.96823000  0.81215400  0.73418300  1
+  O  O15  1  0.46138000  0.98508400  0.71572100  1
+  O  O16  1  0.59056100  0.66256500  0.26477800  1
+  O  O17  1  0.28974400  0.58586000  0.54374000  1
+  O  O18  1  0.71025600  0.41414000  0.45626000  1
+  O  O19  1  0.03177000  0.18784600  0.26581700  1
+  O  O20  1  0.30351500  0.22603400  0.01996600  1
+  O  O21  1  0.78976100  0.35033400  0.96067700  1
+  O  O22  1  0.89879000  0.17485300  0.57702500  1
+  O  O23  1  0.21023900  0.64966600  0.03932300  1
+  O  O24  1  0.53862000  0.01491600  0.28427900  1
