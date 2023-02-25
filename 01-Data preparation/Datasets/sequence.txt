@@ -1,0 +1,5 @@
+Raw data: AWS S3 bucket
+Processing step 1: S3 -> /Datasets/processed_step1/*.xlsx
+Processing step 2: /Datasets/processed_step1/*.xlsx -> /Datasets/processed_step2/*.xlsx
+Processing step 3: /Datasets/processed_step2/*.xlsx -> S3
+JSON dumps: /Datasets/json/*.json
