@@ -1,7 +1,7 @@
 # CGCNN-DomainAdaptation
 This repo contains code and artefacts for domain adaptation-based CGCNN for predictions of experimental band gaps via crystal lattice. 
 
-![image](https://github.com/hasmasood/DomainAdaptation-CGCNN/blob/main/images/cgcnn.jpg)
+![image](https://github.com/hasmasood/DomainAdaptation-CGCNN/blob/master/images/cgcnn.jpg)
 
 The original concept of CGCNN is leveraged from https://github.com/txie-93/cgcnn, with further modifications made to support domain adaptation.
 
