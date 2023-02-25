@@ -19,7 +19,7 @@ conda env create -f environment.yml
 ```
 ## Contents
 Foundational pieces of the project are in form of jupyter notebooks (documentation is provided where necessary), along with additional python scripts helping the execution. The workflow can be traced under a logical sequence.
-### [Data wrangling](https://github.com/hasmasood/DomainAdaptation-CGCNN/blob/main/01-Data%20preparation/DataPrep.ipynb)
+### [Data wrangling](https://github.com/hasmasood/DomainAdaptation-CGCNN/blob/master/01-Data%20preparation/DataPrep.ipynb)
 A number of processing steps are applied to transfom data into required schema as an ETL pipeline. The raw data is hosted on S3 bucket, so ```boto3``` needs to be imported in the dev environment. Material crystals and DFT band gaps were retrieved from Materials project database with ``` pymatgen ``` API query. The processed data to be used by machine learning model is loaded back to S3 bucket, and JSON dumps were stored locally.
-### [EDA](https://github.com/hasmasood/DomainAdaptation-CGCNN/blob/main/01-Data%20preparation/DataPlots.ipynb)
+### [EDA](https://github.com/hasmasood/DomainAdaptation-CGCNN/blob/master/01-Data%20preparation/DataPlots.ipynb)
 Exploratory analysis to get high-level insights on distribution and types of materials included in datasets.
