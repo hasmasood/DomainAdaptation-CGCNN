@@ -11,3 +11,9 @@ The original concept of CGCNN is leveraged from https://github.com/txie-93/cgcnn
 [Amazon Web Services (AWS)](https://aws.amazon.com/)
 
 [Visual Studio Code](https://code.visualstudio.com/)
+
+## Development environment
+The binaries and packages used for this project are included in environment.yml file
+```
+conda env create -f environment.yml
+```
